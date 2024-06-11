@@ -1,3 +1,18 @@
+#head{
+    background-color: rgb(194, 201, 207, 0.838);
+    flex-direction: row;
+}
+#home{
+   padding-top: 1%;
+   padding-left: 750px;
+}
 #color{
     color: rgb(8, 8, 208);
+}
+#top{
+    border: solid;
+    padding-left: 10px;
+    border-width: 2px;
+    border-color: rgba(246, 251, 255, 0.818);
+    background-color: rgba(194, 201, 207, 0.838);
 }
