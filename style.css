@@ -16,3 +16,23 @@
     border-color: rgba(246, 251, 255, 0.818);
     background-color: rgba(194, 201, 207, 0.838);
 }
+#midden{
+    background-color: black;
+}
+i{
+    position: absolute;
+    top: 265px;
+    right: 990px;
+    border-style: solid;
+    border-radius: 100px;
+    padding: 2px;
+    border-color: white;
+    background-color: white;
+}
+#mid{
+    border-style: solid;
+    width: 310px;
+    height: 410px;
+    padding: 3px;
+    border-radius: 10px;
+}
