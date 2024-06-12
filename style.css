@@ -19,20 +19,50 @@
 #midden{
     background-color: black;
 }
-i{
-    position: absolute;
-    top: 265px;
-    right: 990px;
-    border-style: solid;
-    border-radius: 100px;
-    padding: 2px;
-    border-color: white;
-    background-color: white;
+#info{
+    position:absolute;
+    width: 22px;
+    height: 22px;
+    top: 270px;
+    left: 430px;
+    gap: 0px;
+    opacity: 0px;
+    
 }
 #mid{
-    border-style: solid;
-    width: 310px;
-    height: 410px;
-    padding: 3px;
-    border-radius: 10px;
+    width: 480px;
+    height: 580px;
+    top: 397px;
+    left: 214px;
+    gap: 0px;
+    border-radius: 80px 0px 0px 0px;
+    opacity: 0px;
+}
+#middle{
+    width: 480px;
+    height: 580px;
+    top: 397px;
+    left: 300px;
+    gap: 0px;
+    border-radius: 80px 0px 0px 0px;
+    opacity: 0px;
+}
+#info1{
+    position:absolute;
+    width: 22px;
+    height: 22px;
+    top: 700px;
+    left: 430px;
+    gap: 0px;
+    opacity: 0px;
+}
+#thread{
+    width: 478px;
+    height: 40px;
+    top: 534px;
+    left: 747px;
+    gap: 0px;
+    border: 0.1px 0px 0px 0px;
+    opacity: 0px;
+    background-color: #00000066;
 }
